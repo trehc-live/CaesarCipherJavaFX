@@ -3,6 +3,6 @@ module com.stackoverflow.q3732109.aesarcipherjavafx {
     requires javafx.fxml;
 
 
-    opens com.stackoverflow.q3732109.aesarcipherjavafx to javafx.fxml;
-    exports com.stackoverflow.q3732109.aesarcipherjavafx;
+    opens com.crazyfrogfan.caesarcipherjavafx to javafx.fxml;
+    exports com.crazyfrogfan.caesarcipherjavafx;
 }
