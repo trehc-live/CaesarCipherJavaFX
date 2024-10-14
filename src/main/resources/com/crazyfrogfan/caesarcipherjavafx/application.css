@@ -1,0 +1,8 @@
+.root {
+    -fx-background-color:lightgray;
+}
+
+#welcomeText{
+    -fx-background-color: lime;
+    -fx-font-size: 20px;
+}
